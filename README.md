@@ -1,24 +1,8 @@
-# README
+# Open Flights
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+_A [YouTube tutorial](https://youtu.be/oyjzi837wME) by [Zayneio](https://github.com/zayneio/open-flights)_
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### This project uses:
+_Backend_: Rails \
+_Frontend_: React \
+_DB_: Postgresql
